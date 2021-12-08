@@ -1,0 +1,15 @@
+#container {
+    margin-top: 10px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    flex: 0 0 auto;
+}
